@@ -35,6 +35,8 @@ it calculates the  net salary of an employee based on the input  income
 the program calculates the net salary of an employee based on their input income per month 
 
 and show         
+                  
+                  
                   1 Tax
 
                   2 NHIF Deductions
@@ -43,11 +45,22 @@ and show
 
                   4 Net salary 
 
+# REQUIREMENTS
+
+# Prerequisites#
+
+### Prerequisites
+
+* node v14.17.4 and above
+* npm 6.14.14 and above
+* Vue 2.6.11
+* Then install the various packages from package.json `npm install`
+* Create environment variables
 
 
-# Prerequisites
+    
 
-you need to have git installed you can install with the following command $ sudo apt install git-all
+ you need to have git installed you can install with the following command $ sudo apt install git-all
 
 
 
@@ -74,7 +87,9 @@ to access this program in your local files you can clone using this steps
 
 
 # licence
- This program is under MIT licence
+ This program is under MIT licence[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2022 **Emmanuel Bett**
+ 
 
 
 
