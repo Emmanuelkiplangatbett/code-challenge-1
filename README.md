@@ -79,9 +79,15 @@ to access this program in your local files you can clone using this steps
 # Technologies used
   1 Javascript
 
+ 
 
 # CONTACT US
  contact us through emmanuel.bett@student.moringaschool.com incase of any issue.
+
+
+# Contributing
+   
+our website is build with little knowledge in one language,it is however,open to anyone who would wish to contribute to our project. you can also refer here https://stackoverflow.com/questions/8503559/what-is-linting to learn more and run tests. software methods and tools refer herehttp://www.methodsandtools.com/archive/archive.php?id=33.
 
 
 
